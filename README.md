@@ -1,6 +1,6 @@
 Check out the final version created by Kent https://github.com/kentcdodds/netlify-shortener
 
-# netlify-short-url
+# Aileengoeson.com --> AileenMitchellLawrimore.com
 
 Just a test to see if I could use netlify's redirect as an url shortener.
 
